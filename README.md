@@ -1,2 +1,3 @@
-# ZK-SNARK
-Просто ZK-SNARK
+# ZOV-GOIDA
+Просто ZOV-GOIDA
+ИНСТРУКЦИЯ
